@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1511350013 source:c:\users\pranav\documents\new folder\onlinemovieticketbookingplatform\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

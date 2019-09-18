@@ -1,0 +1,4 @@
+Receipt Number    :	1346119120
+Number of tickets :	1
+Seats             : # 8
+					
